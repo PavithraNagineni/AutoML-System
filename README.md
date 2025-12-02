@@ -106,19 +106,34 @@ AutoML System: Automated ML Model Training, Selection & Deployment Pipeline
 
 📁 Project Structure
 automl-pipeline/
+
 ├─ data/
+
 │  └─ sample.csv
+
 ├─ src/
+
 │  ├─ config.py
+
 │  ├─ data_processing.py
+
 │  ├─ features.py
+
 │  ├─ models.py
+
 │  ├─ train.py
+
 │  ├─ mlflow_utils.py
+
 │  └─ serve.py
+
 ├─ models/
+
 ├─ requirements.txt
+
 ├─ Dockerfile
+
 ├─ README.md
+
 └─ .gitignore
 
