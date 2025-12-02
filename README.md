@@ -1,6 +1,8 @@
 # AutoML-System
 🚀 Mini Project: Intelligent AutoML Pipeline for Model Training &amp; Deployment
 
+
+
 📌 Project Title
 AutoML System: Automated ML Model Training, Selection & Deployment Pipeline
 
@@ -9,20 +11,31 @@ AutoML System: Automated ML Model Training, Selection & Deployment Pipeline
    Build a system that automatically:
 
   1️⃣ Cleans and preprocesses any tabular dataset
+  
   2️⃣ Trains multiple ML models
+
   3️⃣ Performs hyperparameter tuning
+  
   4️⃣ Selects the best model based on metrics
+  
   5️⃣ Logs everything into MLflow
+  
   6️⃣ Deploys the chosen model using FastAPI
 
 
 🧠 Tech Stack
   Component	  -------> Technology
+  
   Preprocessing ---->	Pandas, Scikit-learn
+  
   Models	----> RandomForest, XGBoost, SVM, Logistic Regression
+  
   AutoML ----> Search	GridSearchCV / Optuna
+  
   Experiment Tracking	----> MLflow
+  
   Deployment	----> FastAPI + Uvicorn
+  
   Packaging	----> Docker
 
   
