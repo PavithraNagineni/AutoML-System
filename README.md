@@ -7,6 +7,10 @@
 AutoML System: Automated ML Model Training, Selection & Deployment Pipeline
 
 
+
+
+
+
 📘 Problem Statement
    Build a system that automatically:
 
@@ -21,6 +25,11 @@ AutoML System: Automated ML Model Training, Selection & Deployment Pipeline
   5️⃣ Logs everything into MLflow
   
   6️⃣ Deploys the chosen model using FastAPI
+
+
+
+
+
 
 
 🧠 Tech Stack
